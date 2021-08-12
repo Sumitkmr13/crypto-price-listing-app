@@ -1,4 +1,4 @@
-# crypto-pricing-app
+# crypto-price-listing-app
 <img src="https://socialify.git.ci/Sumitkmr13/crypto-pricing-app/image?font=Rokkitt&language=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="crypto-pricing-app" width="640" height="320" />
 
 <ul>
