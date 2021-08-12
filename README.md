@@ -1,5 +1,5 @@
 # crypto-price-listing-app
-<img src="https://socialify.git.ci/Sumitkmr13/crypto-pricing-app/image?font=Rokkitt&language=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="crypto-pricing-app" width="640" height="320" />
+<img src="https://socialify.git.ci/Sumitkmr13/crypto-price-listing-app/image?font=KoHo&language=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="crypto-price-listing-app" width="640" height="320" />
 
 <ul>
   <li>Crypto Price Listing app build using HTML, CSS, TailwindCSS and JQuery</li>
