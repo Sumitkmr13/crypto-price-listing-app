@@ -6,6 +6,7 @@
   <li>In this project I fetch the current prices of 6 Cryptocurrencies and list them using an API</li>
 </ul>
   
+ *the prices are in dollars 
 
 <h2>Technologies learnt by building this project:</h2>
 <ol>
