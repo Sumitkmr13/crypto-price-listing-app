@@ -3,10 +3,10 @@
 
 <ul>
   <li>Crypto Price Listing app build using HTML, CSS, TailwindCSS and JQuery</li>
-  <li>In this project I fetch the current prices of 6 Cryptocurrencies and list them using an API</li>
+  <li>In this project I fetch the current price in dollars of 6 Cryptocurrencies and list them using an API</li>
 </ul>
   
- *the prices are in dollars 
+ 
 
 <h2>Technologies learnt by building this project:</h2>
 <ol>
